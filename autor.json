@@ -1,0 +1,92 @@
+[
+  {
+  "name": "Queens",
+  "image": "img/autor/queens.png",
+  "category": "Autor",
+  "recipe": {
+    "ingredients": [
+        "Mezcla de Ron: 45ml",
+        "Aperol: 15ml",
+        "jugo de piña: 30ml",
+        "Limón Fresco: 15ml",
+        "Almibar simple: 15ml"
+    ],
+    "garnish": "Papel de piña",
+    "glass": "Vaso de Ceramica Azul",
+    "method": "Agitar todos los ingredientes con hielo y colar en el vaso. Decorar con el papel de piña.",
+    "ice": "Hielo Esfera"
+
+  }
+},
+ {
+  "name": "Kingston",
+  "image": "img/autor/kingston.png",
+  "category": "Autor",
+  "recipe": {
+    "ingredients": [
+        "Gin Tanqueray: 45ml",
+        "Zumo de toronja: 22.5ml",
+        "Aperol: 15ml",
+        "Licor de Sauco: 10ml",
+        "Espuma de naranja: 1gr"
+    ],
+    "garnish": "Papel de piña",
+    "glass": "Copa Corta",
+    "method": "Agitar todos los ingredientes con hielo y colar en la copa. Decorar con el papel de piña y espuma de naranja.",
+    "ice": "N/A"
+}
+},
+ {
+  "name": "Astoria",
+  "image": "img/autor/astoria.png",
+  "category": "Autor",
+  "recipe": {
+    "ingredients": [
+        "Mezcal 400 Conejos: 30ml",
+        "Tequila Centenario Reposado: 30ml",
+        "Ancho Reyes: 15ml",
+        "Miel de Agave: 10ml",
+        "Limón Fresco: 22.5ml"
+    ],
+    "garnish": "Tocineta Deshidratada",
+    "glass": "Copa Astoria",
+    "method": "Agitar todos los ingredientes con hielo y colar en la copa. Decorar con el papel de piña y espuma de naranja.",
+    "ice": "Hielo Esfera"
+  }
+},
+ {
+  "name": "New York",
+  "image": "img/autor/new_york.png",
+  "category": "Autor",
+  "recipe": {
+    "ingredients": [
+        "Whisky Shoulder: 60ml",
+        "Limón Fresco: 30ml",
+        "Almibar Simple: 30ml",
+        "Espuma de vino Las Moras: 60ml"
+    ],
+    "garnish": "Limón Deshidratada",
+    "glass": "Copa Corta",
+    "method": "Agitar todos los ingredientes con hielo y colar en la copa. Decorar con el papel de piña y espuma de vino.",
+    "ice": "Hielo Esfera"
+  }
+},
+{
+  "name": "Times Square",
+  "image": "img/autor/times_square.png",
+  "category": "Autor",
+  "recipe": {
+    "ingredients": [
+        "Gin Hendricks: 60ml",
+        "Licor de Sauco: 20ml",
+        "Limón Fresco: 20ml",
+        "Trozos de pepino: 6 trozos",
+        "hoja de albahaca: 4 hojas"
+    ],
+    "garnish": "Rodaja de pepino",
+    "glass": "Copa Corta",
+    "method": "Agitar el gin, licor de sauco, limón fresco y los trozos de pepino con hielo. Colar en la copa, completar con tonica y decorar con la rodaja de pepino y las hojas de albahaca.",
+    "ice": "Hielo Esfera"
+  }
+}
+]

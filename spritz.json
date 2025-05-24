@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Aperol Spritz",
+    "image": "img/spritz/aperol_spritz.png",
+    "category": "Spritz",
+    "recipe": {
+      "ingredients": [
+        "Aperol: 60ml",
+        "Soda: 30ml",
+        "Vino prosecco: top"
+      ],
+      "garnish": "Naranja deshidratada",
+      "glass": "Copa Balón",
+      "method": "Servir en la copa balón con hielo, añadir el aperol y la soda, y terminar con prosecco. Decorar con una Naranja deshidratada deshidratada.",
+      "ice": "Hielo Pille"
+    }
+  },
+  {
+    "name": "Tinto de Verano",
+    "image": "img/spritz/tinto_de_verano.jpeg",
+    "category": "Spritz",
+    "recipe": {
+      "ingredients": [
+        "Vino Tinto: 90ml",
+        "Brandy: 30ml",
+        "Gaseosa Sprite: top"
+      ],
+      "garnish": "Naranja deshidratada",
+      "glass": "Copa Vino",
+      "method": "Servir en la copa balón con hielo, añadir el aperol y la soda, y terminar con prosecco. Decorar con una Naranja deshidratada.",
+      "ice": "Hielo Común"
+    }
+  }
+]

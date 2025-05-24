@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recetario By Guzz</title>
+  <!-- Enlazar el archivo CSS externo -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Recetario By GuzzBarman</h1>
+    <p>Recetario propieda de GuzzBarman</p>
+  </header>
+
+  <div class="search-bar">
+    <!-- oninput="filterCocktails()" se mantiene aquí porque es un evento HTML -->
+    <input type="text" id="searchInput" placeholder="Buscar cóctel..." oninput="filterCocktails()" />
+  </div>
+
+  <div id="cocktailContainer">
+    <!-- Categorías se insertarán aquí por JavaScript -->
+  </div>
+  <footer style="background-color: #111; color: #fff; text-align: center; padding: 1rem; font-size: 0.9rem;">
+  &copy; <span id="year"></span> GuzzBarman. Todos los derechos reservados.
+</footer>
+
+<script>
+  // Autoactualiza el año
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+  <!-- Enlazar el archivo JavaScript externo -->
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Brooklyn",
+    "image": "img/no_img/6640187.jpg",
+    "category": "Mocktails",
+    "recipe": {
+      "ingredients": [
+        "Zumo de piña: 60ml",
+        "Limon Fresco: 30ml",
+        "Juniper de Toronja: top"
+      ],
+      "garnish": "Escarchado con Tajin",
+      "glass": "Vaso Balon",
+      "method": "Directo",
+      "ice": "Hielo Común"
+    }
+  },
+  {
+    "name": "WhiteStone",
+    "image": "img/no_img/6640187.jpg",
+    "category": "Mocktails",
+    "recipe": {
+      "ingredients": [
+        "Almibar de frutos Rojos: 60ml",
+        "Limon Fresco: 30ml",
+        "Soda de Rosas: top"
+      ],
+      "garnish": "Paleta de Frozze",
+      "glass": "Vaso Largo",
+      "method": "Directo",
+      "ice": "Hielo Común"
+    }
+  },
+  
+  {
+    "name": "Rochester",
+    "image": "img/no_img/6640187.jpg",
+    "category": "Mocktails",
+    "recipe": {
+      "ingredients": [
+        "Leche de Coco: 1 unidad",
+        "Zumo de piña: 120ml"
+      ],
+      "garnish": "Piña deshidratada",
+      "glass": "Copa Balon",
+      "method": "Licuado",
+      "ice": "Hielo Común"
+    }
+  }
+]

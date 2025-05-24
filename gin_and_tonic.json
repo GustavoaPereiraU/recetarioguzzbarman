@@ -1,0 +1,62 @@
+[
+  {
+  "name": "Hendricks",
+  "image": "img/466413695_28268247046095972_5953443403859767641_n.jpg", 
+  "category": "Gin and Tonic",
+  "recipe": {
+    "ingredients": [
+      "Gin Hendricks: 60ml",
+      "Pepino fresco: 2 rodajas",
+      "Pétalo de rosa: 1 pétalo",
+      "Tónica: 1 unidad"
+    ],
+    "garnish": "Tira de Pepino",
+    "glass": "Copa balón"
+  }
+},
+
+{
+  "name": "Bombay",
+  "image": "https://blog.dia.es/wp-content/uploads/2016/10/Bombay-Sapphire-Tonic-MAX.jpg",
+  "category": "Gin and Tonic",
+  "recipe": {
+    "ingredients": [
+      "Gin Bombay: 60ml",
+      "Sandia Deshidratada: 2 rodajas",
+      "Tónica: 1 unidad"
+    ],
+    "garnish": "Hierbabuena",
+    "glass": "Copa balón"
+  }
+},
+{
+  "name": "Tanqueray Rangpur",
+  "image": "https://www.dublinandcorkdutyfree.ie/dw/image/v2/BCWC_PRD/on/demandware.static/-/Sites-theloop-master-catalog-ie/default/dw201a5775/images/000232_763871_03.jpg?sw=500&sh=500&sm=fit",
+  "category": "Gin and Tonic",
+  "recipe": {
+    "ingredients": [
+      "Gin Tanqueray Rangpur: 60ml",
+      "Almibar de Frutos Rojos: 15ml",
+      "Arandanos: 6 unidad",
+      "Tónica: 1 unidad"
+    ],
+    "garnish": "Hierbabuena",
+    "glass": "Copa balón"
+  }
+},
+{
+  "name": "Tanqueray London",
+  "image": "https://www.diageobaracademy.com/_next/image?url=https%3A%2F%2Fmedia.diageocms.com%2Fmedia%2Fj24gi2ta%2Four_brands_tanqueray_london_dry_split_image_2.jpg&w=1920&q=75",
+  "category": "Gin and Tonic",
+  "recipe": {
+    "ingredients": [
+      "Gin Tanqueray London: 60ml",
+      "Toronja Rosada: 15ml",
+      "Arandanos: 6 unidad",
+      "Tónica: 1 unidad"
+    ],
+    "garnish": "Hierbabuena",
+    "glass": "Copa balón"
+  }
+}
+]

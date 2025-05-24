@@ -1,0 +1,154 @@
+[
+    
+  {
+    "name": "Margarita Clasico",
+    "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Tequila Centenario Reposado: 60ml",
+        "Triple Sec: 30ml",
+        "Limon Fresco: 20ml",
+        "Almibar Simple: 15ml"
+      ],
+      "garnish": "Sal en el borde a la mitad y limón deshidratado",
+      "glass": "Copa Margarita"
+    }
+  },
+  {
+    "name": "Mojito Clasico",
+    "image": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Ron Quimbaya Gold: 60ml",
+        "Limon Fresco: 30ml",
+        "Almibar Simple: 30ml",
+        "Hierbabuena: 8 hojas",
+        "Soda: Top"
+      ],
+      "garnish": "limón deshidratado y hierbabuena",
+      "glass": "Vaso Largo"
+    }
+  },
+  {
+    "name": "Moscow Mule",
+    "image": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Vodka Absolut: 60ml",
+        "Limon Fresco: 30ml",
+        "Caramelo de Jengibre: 10ml",
+        "Ginger Beer: 1 und"
+      ],
+      "garnish": "Rodaja de limon deshidratado y hierbabuena",
+      "glass": "Vaso Moscow Mule"
+    }
+  },
+  {
+    "name": "Penicillin",
+    "image": "https://www.thecocktaildb.com/images/media/drink/hc9b1a1521853096.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Whisky Shoulder: 60ml",
+        "Triple Sec: 30ml",
+        "Limon Fresco: 30ml",
+        "caramelo de jengibre: 30ml",
+        "Bitter de Naranja: 2 dashes"
+      ],
+      "garnish": "Jengibre Caramelizada",
+      "glass": "Vaso Corto"
+    }
+  },
+  {
+    "name": "Old Fashioned",
+    "image": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Whisky Shoulder: 60ml",
+        "Bitter Angostura: 6 dashes",
+        "Bitter de Naranja: 2 dashes",
+        "Azúcar: 1 barspoon"
+      ],
+      "garnish": "Twist de naranja",
+      "glass": "Vaso Corto"
+    }
+  },
+  {
+    "name": "Negroni",
+    "image": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Ginebra: 30ml",
+        "Campari: 30ml",
+        "Vermouth Rosso: 30ml"
+      ],
+      "garnish": "Twist de naranja",
+      "glass": "Vaso Corto"
+    }
+  },
+  {
+    "name": "Bulevardier",
+    "image": "https://www.thecocktaildb.com/images/media/drink/km84qi1513705868.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Whisky Shoulder: 60ml",
+        "Campari: 30ml",
+        "Vermouth Rosso: 30ml"
+      ],
+      "garnish": "Twist de naranja",
+      "glass": "Vaso Corto"
+    }
+  },
+  {
+    "name": "Pisco Sour",
+    "image": "https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Pisco: 60ml",
+        "Limon Fresco: 30ml",
+        "Almibar Simple: 30ml",
+        "Emulsionante: 2 gotas",
+        "Bitter Angostura: 3 gotas"
+      ],
+      "garnish": "Amargo de angostura",
+      "glass": "Copa de Margarita"
+    }
+  },
+  {
+    "name": "Dry Martini",
+    "image": "https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Ginebra: 90ml",
+        "Vermouth seco: 30ml",
+        "Bitter de Naranja: 3 gotas",
+        "Bitter Angostura: 3 gotas"
+      ],
+      "garnish": "Aceituna verde 3 und",
+      "glass": "Copa de cóctel"
+    }
+  },
+  {
+    "name": "Paloma",
+    "image": "https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg",
+    "category": "Clásicos",
+    "recipe": {
+      "ingredients": [
+        "Tequila Centenario Reposado: 60ml",
+        "Limon Fresco: 15ml",
+        "Miel de Agave: 15ml",
+        "Juniper toronja: 1 und"
+      ],
+      "garnish": "Rodaja de toronja",
+      "glass": "Vaso largo"
+    }
+  }
+]

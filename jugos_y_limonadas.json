@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Limonada Natural",
+    "image": "img/jugos/limonada.jpg",
+    "category": "Jugos y Limonadas",
+    "recipe": {
+      "ingredients": [
+        "Limón Tahiti: 1unidad",
+        "Azucar: 2 barspoons"
+      ],
+      "garnish": "Limon Deshidratado",
+      "glass": "Vaso Largo",
+      "method": "Licuado.",
+      "ice": "Hielo Común"
+    }
+  },
+  {
+    "name": "Limonada de Coco",
+    "image": "img/jugos/limonada_de_coco.webp",
+    "category": "Jugos y Limonadas",
+    "recipe": {
+      "ingredients": [
+        "Leche de Coco Artesanal: 1unidad",
+        "Limon Fresco: 30ml"
+      ],
+      "garnish": "Coco Deshidratado",
+      "glass": "Vaso Largo",
+      "method": "Licuado.",
+      "ice": "Hielo Común"
+    }
+  },
+  
+  {
+    "name": "Limonada de Vino",
+    "image": "img/jugos/limonada_de_vino.webp",
+    "category": "Jugos y Limonadas",
+    "recipe": {
+      "ingredients": [
+        "Limon Tahiti: 1 unidad",
+        "Almibar simple: 30ml",
+        "Vino Tinto: 60ml"
+      ],
+      "garnish": "Limón deshidratado con Oro comestible",
+      "glass": "Copa de Vino",
+      "method": "Licuado.",
+      "ice": "Hielo Común"
+    }
+  }
+]
